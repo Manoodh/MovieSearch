@@ -19,7 +19,7 @@ class _SeriesDetailsState extends State<SeriesDetails> {
 
   var url = "https://api.themoviedb.org/3/tv/";
 
-  String apikey = "?api_key=7f5bf5e052db433d02faf6fda2da2547";
+  String apikey = "?api_key=?<api_key>";
 
   String imgurl = "https://image.tmdb.org/t/p/w500/";
   @override
