@@ -18,7 +18,7 @@ class SeriesResult extends StatefulWidget {
 
 class _SeriesResultState extends State<SeriesResult> {
   String url =
-      "https://api.themoviedb.org/3/search/tv?api_key=7f5bf5e052db433d02faf6fda2da2547&query=";
+      "https://api.themoviedb.org/3/search/tv?api_key=?<api_key>&query=";
 
   String img_url = "https://image.tmdb.org/t/p/w500/";
   List data;
