@@ -17,7 +17,7 @@ class MovieResult extends StatefulWidget {
 
 class _MovieResultState extends State<MovieResult> {
   String url =
-      "https://api.themoviedb.org/3/search/movie?api_key=7f5bf5e052db433d02faf6fda2da2547&query=";
+      "https://api.themoviedb.org/3/search/movie?api_key=<api_key>&query=";
 
   String img_url = "https://image.tmdb.org/t/p/w500/";
   List data;
