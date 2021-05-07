@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Image of Yaktocat](https://github.com/Manoodh/MovieSearch/blob/master/android/MovieSearch1.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
