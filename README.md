@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ![Image of Yaktocat](https://github.com/Manoodh/MovieSearch/blob/master/android/MovieSearch1.jpg)
+<img src="https://github.com/Manoodh/MovieSearch/blob/master/android/MovieSearch1.jpg" width="200">
 
 ## Getting Started
 
