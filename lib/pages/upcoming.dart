@@ -12,7 +12,7 @@ class Upcoming extends StatefulWidget {
 
 class _UpcomingState extends State<Upcoming> {
   String url =
-      "https://api.themoviedb.org/3/movie/upcoming?api_key=7f5bf5e052db433d02faf6fda2da2547";
+      "https://api.themoviedb.org/3/movie/upcoming?api_key=?<api_key>";
 
   String img_url = "https://image.tmdb.org/t/p/w500/";
   List data;
